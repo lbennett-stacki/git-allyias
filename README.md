@@ -1,17 +1,18 @@
-## git-allyias
+# git-allyias
 
-A cli ally to help you learn your overly complex git aliases.
+A cli ally to help you learn your overly complex git aliases by notifying you when you could have used an alias command.
 
-#### Install
+## Install
 
+```bash
+npm install --global @lbennett/git-allyias
+# OR
+yarn global add @lbennett/git-allyias
 ```
-> git clone ... git-allyias && cd git-allyias
-> yarn link
-```
 
-yes... very lazy
+## Usage
 
-#### Use
+You can now use the `g` or `git-allyias` commands.
 
 ```
 > g rebase origin/master --autosquash -i
