@@ -1,9 +1,9 @@
 # git-allyias
-
+test
 A cli ally to help you learn your overly complex git aliases by notifying you when you could have used an alias command.
-
+test
 ## Install
-
+test
 ```bash
 npm install --global @lbennett/git-allyias
 # OR
